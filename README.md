@@ -1,9 +1,10 @@
-### Hey there, I'm Pranav 👋
+### Hey there, I'm <a  href="https://github.com/iampranavdhar/"> Pranav </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 #### 👨🏻‍💻 About Me 
 
 - 🔭 I’m currently working on amfoss-tasks.
 - 🌱 I’m currently learning Coding and Web Development
+- 💻 I am currently a member at [amFOSS](http://www.amfoss.in)
 - 🎓 Studying Computer Science Engineering at Amrita Vishwa Vidyapeetham.
 - 💬 Ask me about computers.
 - 😄 Pronouns: He/His/Him

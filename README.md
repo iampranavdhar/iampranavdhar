@@ -2,8 +2,7 @@
 
 #### 👨🏻‍💻 About Me 
 
-- 🔭 I’m currently working on amfoss-tasks.
-- 🌱 I’m currently learning Coding and Web Development
+- 🌱 I’m currently learning Problem solvng and Web Development
 - 💻 I am currently a member at [amFOSS](http://www.amfoss.in)
 - 🎓 Studying Computer Science Engineering at Amrita Vishwa Vidyapeetham.
 - 💬 Ask me about computers.

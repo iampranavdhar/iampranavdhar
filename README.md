@@ -34,7 +34,7 @@
   
 <br/>
 
-![](https://komarev.com/ghpvc/?username=aswinshenoy)
+![](https://komarev.com/ghpvc/?username=iampranavdhar)
 [![twitter badge](https://img.shields.io/badge/twitter-Pranavdhar-0077b5?style=social&logo=twitter)](https://twitter.com/Pranavdhar8)
 [![linkedin badge](https://img.shields.io/badge/linkedin-Pranavdhar-0077b5?style=social&logo=linkedin)](https://in.linkedin.com/in/sai-pranavdhar-reddy-nalamalapu-038104206)
 

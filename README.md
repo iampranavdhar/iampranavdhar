@@ -11,6 +11,8 @@
 #### 🛠 Tech Stack
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -19,9 +21,11 @@
 
 
 - 💻
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Nodejs](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![CLang](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 - 🌐 

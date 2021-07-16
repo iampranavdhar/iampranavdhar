@@ -5,51 +5,40 @@
 - 🌱 I’m currently learning Problem solving and Web Development
 - 💻 I am currently a member at [amFOSS](http://www.amfoss.in)
 - 🎓 Studying Computer Science Engineering at Amrita Vishwa Vidyapeetham.
-- 💬 Ask me about computers.
+- 💬 Ask me about Full Stack Web Development
 - 😄 Pronouns: He/His/Him
 
-#### 🛠 Tech Stack
+#### 🛠 My Skills
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code>
-
-
-- 💻
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Nodejs](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
-  ![CLang](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-- 🌐 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- ⚙️ 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text)
+  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![](https://img.shields.io/badge/Django-38B2AC?style=for-the-badge&logo=django&logoColor=white)
+  ![](https://img.shields.io/badge/GraphQL-gray?style=for-the-badge&logo=GraphQL&logoColor=#f705a3)
+  ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![](https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=Orange)
+  ![](https://img.shields.io/badge/Github-eb4034?style=for-the-badge&logo=github&logoColor=black)
+  ![](https://img.shields.io/badge/vscode-gray?style=for-the-badge&logo=visualstudiocode&logoColor=508cfa)
+  ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
   
-<br/>
+#### 🌍 Connect Me On
 
-![](https://komarev.com/ghpvc/?username=iampranavdhar)
-[![twitter badge](https://img.shields.io/badge/twitter-Pranavdhar-0077b5?style=social&logo=twitter)](https://twitter.com/Pranavdhar8)
+[![twitter badge](https://img.shields.io/badge/twitter-Pranavdhar-0077b5?style=social&logo=twitter)](https://twitter.com/Pranavdhar8)<br/>
 [![linkedin badge](https://img.shields.io/badge/linkedin-Pranavdhar-0077b5?style=social&logo=linkedin)](https://in.linkedin.com/in/sai-pranavdhar-reddy-nalamalapu-038104206)
 
-<br/>
+
+#### :octocat: My Github Statistics
 
 <a href="https://github.com/iampranavdhar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampranavdhar&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampranavdhar&theme=radical&layout=compact" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=iampranavdhar)
 
 <br/>

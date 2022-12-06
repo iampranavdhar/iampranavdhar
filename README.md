@@ -12,8 +12,8 @@ I am an ambitious computer science engineer, an open-source enthusiast, Full Sta
 
 #### 🛠 My Skills
 
-  ![](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
-  ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![](https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
+  ![](https://img.shields.io/badge/ReactJs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![](https://img.shields.io/badge/Django-38B2AC?style=for-the-badge&logo=django&logoColor=white)

@@ -1,4 +1,4 @@
-### Hey there, I'm <a  href="https://github.com/iampranavdhar/"> Pranav </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+### Hey there, I'm <a  href="https://github.com/iampranavdhar/"> Pranavdhar </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 #### 👨🏻‍💻 About Me 
 

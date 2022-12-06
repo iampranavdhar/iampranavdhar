@@ -12,21 +12,23 @@ I am an ambitious computer science engineer, an open-source enthusiast, Full Sta
 
 #### 🛠 My Skills
 
-  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
   ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![](https://img.shields.io/badge/Django-38B2AC?style=for-the-badge&logo=django&logoColor=white)
   ![](https://img.shields.io/badge/GraphQL-gray?style=for-the-badge&logo=GraphQL&logoColor=#f705a3)
   ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![](https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis&logoColor=61DAFB)
   ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![](https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white)
   ![](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=Orange)
   ![](https://img.shields.io/badge/Github-eb4034?style=for-the-badge&logo=github&logoColor=black)
   ![](https://img.shields.io/badge/vscode-gray?style=for-the-badge&logo=visualstudiocode&logoColor=508cfa)
   ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 #### 🌍 Connect Me On
 

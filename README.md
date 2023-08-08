@@ -4,8 +4,9 @@
 
 I am an ambitious computer science engineer, an open-source enthusiast, Full Stack Developer(MERNG, Django) and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful.
 
-- 🌱 I’m currently learning System Design and Web Development
-- 💻 I am currently a member at [amFOSS](http://www.amfoss.in)
+- 🌱 I’m currently learning System Design and Web Development and also doing my Summer Internship at SAP Labs
+- ❤️ I have developed a recent love for TypeScript.
+- 💻 I am currently a Mentor at [amFOSS](http://www.amfoss.in)
 - 🎓 Studying Computer Science Engineering at Amrita Vishwa Vidyapeetham.
 - 💬 Ask me about Full Stack Web Development
 - 😄 Pronouns: He/His/Him

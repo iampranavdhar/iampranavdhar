@@ -6,8 +6,8 @@ I am an ambitious software engineer, an open-source enthusiast, Full Stack Devel
 
 - 🌱 I’m currently trying to make an impact by building different products :)
 - ❤️ I have developed a love for TypeScript.
-- 💻 I am currently a Mentor at [amFOSS](http://www.amfoss.in)
-- 🎓 Working as a Software Developer at SAP LABS.
+- 💻 Working as a Software Developer at SAP LABS.
+- 🎓 I am currently a Mentor at [amFOSS](http://www.amfoss.in)
 - 💬 Ask me about Full Stack Web Development
 - 😄 Pronouns: He/His/Him
 

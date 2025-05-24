@@ -2,12 +2,12 @@
 
 #### 👨🏻‍💻 About Me 
 
-I am an ambitious computer science engineer, an open-source enthusiast, Full Stack Developer(MERNG, Django) and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful.
+I am an ambitious software engineer, an open-source enthusiast, Full Stack Developer(MERNG, Django, React Native) and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful.
 
-- 🌱 I’m currently learning System Design and also doing my Summer Internship at SAP Labs
-- ❤️ I have developed a recent love for TypeScript.
+- 🌱 I’m currently trying to make an impact by building different products :)
+- ❤️ I have developed a love for TypeScript.
 - 💻 I am currently a Mentor at [amFOSS](http://www.amfoss.in)
-- 🎓 Studying Computer Science Engineering at Amrita Vishwa Vidyapeetham.
+- 🎓 Working as a Software Developer at SAP LABS.
 - 💬 Ask me about Full Stack Web Development
 - 😄 Pronouns: He/His/Him
 
@@ -34,7 +34,7 @@ I am an ambitious computer science engineer, an open-source enthusiast, Full Sta
 #### 🌍 Connect Me On
 
 [![twitter badge](https://img.shields.io/badge/twitter-Pranavdhar-0077b5?style=social&logo=twitter)](https://twitter.com/iampranavdhar)<br/>
-[![linkedin badge](https://img.shields.io/badge/linkedin-Pranavdhar-0077b5?style=social&logo=linkedin)](https://in.linkedin.com/in/sai-pranavdhar-reddy-nalamalapu-038104206)
+[![linkedin badge](https://img.shields.io/badge/linkedin-Pranavdhar-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/iampranavdhar/)
 
 
 #### :octocat: My Github Statistics

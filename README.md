@@ -5,9 +5,6 @@
 I am an ambitious software engineer, an open-source enthusiast, Full Stack Developer(MERNG, Django, React Native) and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful.
 
 - 🌱 I’m currently trying to make an impact by building different products :)
-- ❤️ I have developed a love for TypeScript.
-- 💻 Working as a Software Developer at SAP LABS.
-- 🎓 I am currently a Mentor at [amFOSS](http://www.amfoss.in)
 - 💬 Ask me about Full Stack Web Development
 - 😄 Pronouns: He/His/Him
 
